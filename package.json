@@ -1,0 +1,19 @@
+{
+  "name": "old-sms-love-letter-exhibition",
+  "version": "1.0.0",
+  "description": "旧短信情书展 - 从短信中挖掘最动人的对话",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}

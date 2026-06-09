@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+.trae/*
+node_modules/
+dist/
+coverage/
+*.log
+tsconfig.tsbuildinfo
+venv/
+__pycache__/
+*.pyc
