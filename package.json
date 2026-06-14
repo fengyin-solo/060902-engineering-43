@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "preflight": "node scripts/preflight-check.js",
+    "prepublishOnly": "npm run preflight"
   },
   "dependencies": {
     "vue": "^3.4.0",
